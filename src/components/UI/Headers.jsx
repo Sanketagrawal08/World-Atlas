@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 
 const Headers = () => {
+
   return (
     <header className="bg-gray-800 text-white flex justify-between items-center py-7 px-8 shadow-md">
       
@@ -13,7 +14,7 @@ const Headers = () => {
       </NavLink>
 
       
-      <nav className="flex gap-6 text-lg font-medium">
+      <nav className="flex gap-6 text-lg font-medium ">
         <NavLink 
           to="/" 
           className="hover:text-gray-200 transition duration-300"

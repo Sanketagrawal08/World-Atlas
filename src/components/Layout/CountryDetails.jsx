@@ -56,11 +56,11 @@ const CountryDetails = () => {
           <h6 className="text-lg text-gray-600 mb-2"> Border: {border}</h6>
         </div>
 
-        <div className="mt-6 lg:mt-0 flex justify-center items-center flex-col border-2 border-neutral-200">
+        <div className="divkuchtoh mt-6 lg:mt-0 flex justify-center items-center flex-col border-2 border-neutral-200">
           <img
             src={country.flags?.svg}
             alt="Flag"
-            className="w-[25vw] h-[45vh] p-4 object-contain rounded-lg shadow-lg hover:scale:[2vw]"
+            className="w-[25vw] h-[45vh] p-4 object-contain rounded-lg shadow-lg hover:scale:[2vw] kuchtoh"
           />
         </div>
       </div>
