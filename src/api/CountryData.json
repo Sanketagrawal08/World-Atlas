@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "countryName": "India",
+        "capital": "New Delhi",
+        "population": "1.4 billion",
+        "interestingFact": "India is the world's largest democracy."
+    },
+    {
+        "id": 2,
+        "countryName": "Japan",
+        "capital": "Tokyo",
+        "population": "125 million",
+        "interestingFact": "Japan has more than 6,800 islands."
+    },
+    {
+        "id": 3,
+        "countryName": "Brazil",
+        "capital": "Brasília",
+        "population": "216 million",
+        "interestingFact": "Brazil is home to the Amazon Rainforest."
+    },
+    {
+        "id": 4,
+        "countryName": "Australia",
+        "capital": "Canberra",
+        "population": "26 million",
+        "interestingFact": "Australia is the only continent covered by a single country."
+    },
+    {
+        "id": 5,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "population": "39 million",
+        "interestingFact": "Canada has the longest coastline in the world."
+    }
+]
