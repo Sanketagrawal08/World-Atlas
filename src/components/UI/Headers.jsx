@@ -7,7 +7,7 @@ const Headers = () => {
       
       <NavLink 
         to="/" 
-        className="text-2xl font-bold tracking-wide hover:text-gray-400 transition duration-300"
+        className="text-2xl font-bold tracking-wide hover:text-gray-200 transition duration-300"
       >
         🌐 World Atlas
       </NavLink>
@@ -16,28 +16,23 @@ const Headers = () => {
       <nav className="flex gap-6 text-lg font-medium">
         <NavLink 
           to="/" 
-          className="hover:text-gray-400 transition duration-300"
+          className="hover:text-gray-200 transition duration-300"
         >
           Home
         </NavLink>
         <NavLink 
           to="/about" 
-          className="hover:text-gray-400 transition duration-300"
+          className="hover:text-gray-200 transition duration-300"
         >
           About
         </NavLink>
         <NavLink 
           to="/country" 
-          className="hover:text-gray-400 transition duration-300"
+          className="hover:text-gray-200 transition duration-300"
         >
           Country
         </NavLink>
-        <NavLink 
-          to="/contact" 
-          className="hover:text-gray-400 transition duration-300"
-        >
-          Contact
-        </NavLink>
+
       </nav>
     </header>
   );
