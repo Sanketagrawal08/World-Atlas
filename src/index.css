@@ -26,7 +26,9 @@ html, body {
 }
 @keyframes l3 {to{transform: rotate(1turn)}}
 
-.kuchtoh{
-  width: 100vw;
+@media (max-width:700px) {
+  .kuchtoh{
+    width: 100vw;
+  }
 }
 
